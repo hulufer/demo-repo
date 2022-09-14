@@ -1,3 +1,3 @@
 # Demo
 
-Learn to how can i use to Git
+Learn to how can i use to Git!
